@@ -21,3 +21,11 @@ O atributo `target="_blank"` é importante porque:
 Além disso, o conteúdo também é super bacana e foi um enorme prazer falar sobre isso!
 
 Espero que você goste do meu primeiro projeto! 😄
+
+![Captura de tela 2025-01-23 190824](https://github.com/user-attachments/assets/e762b9cb-5475-473f-82fb-b1cb5f7d07d0)
+![Captura de tela 2025-01-23 191027](https://github.com/user-attachments/assets/88fe8f1b-d45e-4d4d-92e5-0799a90991dd)
+![Captura de tela 2025-01-23 191149](https://github.com/user-attachments/assets/0254dabb-fb80-4be7-86e4-17159a9c6165)
+![Captura de tela 2025-01-23 191204](https://github.com/user-attachments/assets/ec0f8a7e-d12a-4b38-ba70-f1f91c22d329)
+
+
+
